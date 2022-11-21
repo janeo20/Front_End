@@ -1,0 +1,20 @@
+.roda{
+    display: flex;
+    color: white;
+    background-color:rgb(255, 10, 10) ;
+    width: 100%;
+    
+}
+
+.img-roda{
+    width: 4%;
+    height: 50px;
+    margin: 3px;
+    align-items: center;
+    
+}
+
+.img-roda:hover{
+    width: 4.1%;
+    
+}
